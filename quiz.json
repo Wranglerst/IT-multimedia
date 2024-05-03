@@ -1,10 +1,5 @@
-[{"sporsmal_1":{
+{{"sporsmal_1":{
   "sporsmal":"Hvor mange bit tar 1 sekund med 30fps HD video opp?",
     "riktig":"1492992000"
   }
-},
-{"sporsmal_2":{
-  "sporsmal":"Det er 2 måter å komprimere lydfiler på PCM og ____",
-    "riktig":"ADPCM"
-  }
-}]
+}}
