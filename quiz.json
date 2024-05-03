@@ -1,13 +1,10 @@
-{
-  {"sporsmal_1":{
-    "sporsmal":"Hvor mange bit tar 1 sekund med 30fps HD video opp?",
-    "riktig":1492992000,
-    }
+{"sporsmal_1":{
+  "sporsmal":"Hvor mange bit tar 1 sekund med 30fps HD video opp?",
+  "riktig":1492992000,
   }
 }
-  {"sporsmal_2":{
-    "sporsmal":"",
-    "riktig":"",
-    }
+{"sporsmal_2":{
+  "sporsmal":"",
+  "riktig":"",
   }
 }
