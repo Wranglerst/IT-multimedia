@@ -7,6 +7,22 @@
     "sporsmal_2" : {
       "sporsmal": "Det finnes to måter å komprimere lydfiler på PCM og ____",
       "riktig": "ADPCM"
+    },
+    "sporsmal_3" : {
+      "sporsmal": "Man kan komprimere bildefiler på to måter Destruktivt og ____",
+      "riktig": "tapsfri"
+    },
+    "sporsmal_4" : {
+      "sporsmal": "Det er 2 standarder for visning av videoer ___ og NTSC",
+      "riktig": "PAL"
+    },
+    "sporsmal_5" : {
+      "sporsmal": "Hvor mange bit R, G og B verdier lagret i?",
+      "riktig": "8"
+    },
+    "sporsmal_6" : {
+      "sporsmal": "Det er to måter å komprimere videoer på Keyframe og ____",
+      "riktig": "ADPCM"
     }
 
   
