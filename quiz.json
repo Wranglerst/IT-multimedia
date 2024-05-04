@@ -1,5 +1,4 @@
 {
-
     "sporsmal_1": {
       "sporsmal": "Hvor mange bit tar 1 sekund med 30fps HD video opp?",
       "riktig": "1492992000"
@@ -24,6 +23,4 @@
       "sporsmal": "Det er to måter å komprimere videoer på Keyframe og ____",
       "riktig": "ADPCM"
     }
-
-  
 }
